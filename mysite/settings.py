@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-boont'
 
-TIME_ZONE = 'GMT+0'
+TIME_ZONE = 'Europe/London'
 
 USE_I18N = True
 
